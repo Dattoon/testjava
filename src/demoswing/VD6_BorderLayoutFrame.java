@@ -29,7 +29,7 @@ public class VD6_BorderLayoutFrame extends javax.swing.JFrame {
         getContentPane().setLayout(null);
         pack();
     }
-    //test github
+    //test github dhaduhaadkjdak;dkadk
     public static void main(String[] args) {
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
